@@ -1,1 +1,2 @@
-import './style.css'
+import './layout.scss'
+import './style.scss'
